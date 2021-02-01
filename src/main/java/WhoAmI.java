@@ -11,6 +11,7 @@ public class WhoAmI {
     }
     public void sayName()
     {
-        System.out.println(name);
+
+        System.out.println("Your name is "+name+"!");
     }
 }
